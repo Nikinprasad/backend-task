@@ -2,6 +2,8 @@
 ## Project Goal
 To make an API to fetch latest videos sorted in reverse chronological order of their publishing date-time from YouTube for a given tag/search query in a paginated response.
 
+### This project is fully based on Django Rest Framework and Youtube Data API v3. Crontab is used for await for a time of 10 sec.
+
 ## Create and start Virtural Environment 
 `sudo apt-get install python3-venv`
 
