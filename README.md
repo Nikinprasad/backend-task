@@ -30,7 +30,7 @@ From the root folder where manage.py is located,
 
 `python manage.py runserver`
 
-### Simply open `http://127.0.0.1:8000/` in your browser to view the page.
+#### Simply open `http://127.0.0.1:8000/` in your browser to view the page.
 ## ScreenShots
 ### Dashboard
 ![Image of Dashboard](https://user-images.githubusercontent.com/52597536/112284534-5b11f100-8caf-11eb-8c2d-04ce168f0626.png)
