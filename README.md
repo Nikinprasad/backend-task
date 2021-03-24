@@ -29,9 +29,9 @@ From the root folder where manage.py is located,
 `python manage.py runserver`
 
 ## ScreenShots
-Dashboard
+### Dashboard
 ![Image of Dashboard](https://user-images.githubusercontent.com/52597536/112284534-5b11f100-8caf-11eb-8c2d-04ce168f0626.png)
 
-Simple filter from Django Rest Framework
+### Simple filter from Django Rest Framework
 ![Image of Filter](https://user-images.githubusercontent.com/52597536/112284773-990f1500-8caf-11eb-8125-fcd70f2b23eb.png)
  
