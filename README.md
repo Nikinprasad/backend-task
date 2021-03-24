@@ -18,8 +18,15 @@ requirements.txt is added in the folder
 
 Django and Django rest framework with all the necessary packages will be installed.
 
-## Start project
+## Changing YouTube API link
+Inside `settings.py`, YouTube Data API key is located at line 136
 
+`GOOGLE_API_KEYS = ['Your_Key_1','Your_Key_2']`
+
+## Start project
 From the root folder where manage.py is located,
 
 `python manage.py runserver`
+
+## ScreenShots
+![Image of Dashboard](https://user-images.githubusercontent.com/52597536/112284534-5b11f100-8caf-11eb-8c2d-04ce168f0626.png)
